@@ -1,1 +1,2 @@
 marcel jar
+marcel.jar@senecacollege.ca
